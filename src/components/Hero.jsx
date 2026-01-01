@@ -25,7 +25,7 @@ export default function Hero() {
           </a>
 
           <a
-            href="./Dipak_P_Deshmukh_CV.pdf"
+            href="https://drive.google.com/file/d/1nlxFj5rC9lJMVGluX1O_6d25XtkvCthE/view"
             className="px-6 py-3 border border-gray-600 rounded-lg hover:border-white"
           >
             Download Resume
