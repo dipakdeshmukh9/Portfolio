@@ -2,7 +2,7 @@
 
 A modern, performance-focused portfolio showcasing **production-grade React projects**, **clean frontend architecture**, and **strong problem-solving (DSA) skills**.
 
-🔗 **Live Portfolio:** https://your-portfolio-link.vercel.app  
+🔗 **Live Portfolio:** [https://your-portfolio-link.vercel.app](https://portfoliodipakdeshmukh.vercel.app/)  
 💻 **GitHub:** https://github.com/dipakdeshmukh9  
 🧠 **LeetCode:** https://leetcode.com/u/DipakDeshmukh2/  
 
