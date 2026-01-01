@@ -1,0 +1,13 @@
+@import "tailwindcss";
+body {
+  font-family: "Inter", sans-serif;
+  background-color: #000;
+  color: white;
+}
+html {
+  scroll-behavior: smooth;
+}
+.hover-card:hover {
+  transform: translateY(-4px);
+  transition: 0.3s ease;
+}
